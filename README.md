@@ -8,7 +8,6 @@ fascinated</b>
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-<p align="center">Currently looking for a <b>full-time remote position as a Front-End Engineer (React)</b><p>
   <p align="center">My Personal Website: https://www.ahmedhossam.me/<p>
   
 </p>
